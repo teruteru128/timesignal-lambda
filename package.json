@@ -1,0 +1,12 @@
+{
+    "name": "timesignal-lambda",
+    "description": "description",
+    "authors": "teruteru128",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "dependencies": {
+        "@aws-sdk/client-lambda": "^3.529.1",
+        "@aws-sdk/client-s3": "^3.529.1",
+        "discord.js": "^14.14.1"
+    }
+}
